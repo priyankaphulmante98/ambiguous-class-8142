@@ -52,8 +52,7 @@ const Signin = () => {
           <img
             src="https://coschedule.com/img/cos-logo-full-color.svg"
             className={styles.cosLogo}
-            alt="CoSchedule Logo"
-          />
+            alt="CoSchedule Logo"/>
         </Link>
         <br />
 

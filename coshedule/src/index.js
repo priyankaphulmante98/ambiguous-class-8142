@@ -4,8 +4,6 @@ import "./index.css";
 import App from "./App";
 import { ChakraProvider } from "@chakra-ui/react";
 import { BrowserRouter } from "react-router-dom";
-import "./font/Museo Sans 700.ttf";
-import "./font/Museo Sans 300 Regular.ttf";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
