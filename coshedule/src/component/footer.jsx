@@ -37,7 +37,7 @@ const SocialButton = ({
  {
   children: ReactNode,
   label: string,
-  href: string,
+  href: string
 }) => {
   return (
     <chakra.button

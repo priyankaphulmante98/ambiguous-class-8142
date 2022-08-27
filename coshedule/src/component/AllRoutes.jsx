@@ -11,7 +11,6 @@ const AllRoutes = () => {
      
       <Routes>
         <Route path ="/" element ={ <Home />}/>
-        <Route path="/Calender" element={<CreateCalendar />} />
         <Route path="/Signin" element={<Signin />} />
         <Route path="/Signup" element={<Signup />} />
       </Routes>

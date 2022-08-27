@@ -1,4 +1,4 @@
-import styles from "../Css/Navbar..module.css";
+import styles from "../Css/Navbar.module.css";
 import {
   Box,
   Flex,
@@ -17,7 +17,7 @@ import {
   useBreakpointValue,
   useDisclosure,
 } from "@chakra-ui/react";
-import "@fontsource/raleway/400.css";
+
 import {
   HamburgerIcon,
   CloseIcon,
